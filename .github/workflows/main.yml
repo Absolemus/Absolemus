@@ -12,4 +12,4 @@ jobs:
       - uses: bayselonarrend/infometrics-articles@1.1
         with:
           profile-id: '1863380'                 # ID профиля Infostart
-          count: '5'  
+          count: '3'  
