@@ -1,25 +1,25 @@
 ﻿<div id="infostart_posts">
 
 
-> <img src="https://infostart.ru/upload/iblock/a57/a5707e0bb8184dcb38fdc6d97ef07689.png?04d362f2-9531-41f9-8f80-9c52b8df1974" width="96" align="left"> 
+> <img src="https://infostart.ru/upload/iblock/a57/a5707e0bb8184dcb38fdc6d97ef07689.png?98f2976c-8d0c-419d-b9e3-81903d7cbf03" width="96" align="left"> 
 > <h4 style="color: white;"><a href="https://infostart.ru/1c/articles/2072990/">Как вызвать скрипты на python в 1С по технологии NativeAPI</a></h4>
 > <small>Будем писать свои скрипты на питоне и запускать их на 1С.</small>  
 > <br clear="left">
 >
-> | :star: +54 |  :calendar: 15.04.2024 |  :speech_balloon: 11 |  :eyes: 1853 |
+> | :star: +54 |  :calendar: 15.04.2024 |  :speech_balloon: 11 |  :eyes: 1874 |
 >  |-|-|-|-|  
-> <img src="https://infostart.ru/upload/iblock/056/056c40a7b7466e0f727a911732ddb6c5.jpg?2241d5c2-2db4-4da2-b008-bada28c71890" width="96" align="left"> 
+> <img src="https://infostart.ru/upload/iblock/056/056c40a7b7466e0f727a911732ddb6c5.jpg?ed4d1fbc-ea75-4320-8235-0f74a899d1d2" width="96" align="left"> 
 > <h4 style="color: white;"><a href="https://infostart.ru/1c/articles/2035802/">Расширяем возможности дополнительных обработок и настраиваем их отладку</a></h4>
 > <small>Уже не одна веб-страница исписана знаниями о дополнительных обработках, как создать, как подключить. Есть масса вариантов, как их можно отладить. Я разобрался в кишках работы библиотеки и покажу, как можно расширить возможности дополнительных отчетов, а также покажу удобный способ отладки.</small>  
 > <br clear="left">
 >
-> | :star: +47 |  :calendar: 07.02.2024 |  :speech_balloon: 11 |  :eyes: 2746 |
+> | :star: +48 |  :calendar: 07.02.2024 |  :speech_balloon: 11 |  :eyes: 2756 |
 >  |-|-|-|-|  
-> <img src="https://infostart.ru/upload/iblock/af5/af58a047a7b2538d0a8411a127634cec.jpg?98f37b5a-1ea2-4ffb-8b35-704067c75d26" width="96" align="left"> 
+> <img src="https://infostart.ru/upload/iblock/af5/af58a047a7b2538d0a8411a127634cec.jpg?e60f479f-4f5d-4b13-b8d2-0b4b9e94a6fd" width="96" align="left"> 
 > <h4 style="color: white;"><a href="https://infostart.ru/1c/articles/2024388/">Как готовить и есть массивы</a></h4>
 > <small>Все мы используем массивы в своем коде. Это один из первых объектов, который дают ученикам при прохождении обучения программированию. Но умеем ли мы ими пользоваться? В этой статье я хочу показать все методы массива, а также некоторые фишки в работе с массивами.</small>  
 > <br clear="left">
 >
-> | :star: +68 |  :calendar: 24.01.2024 |  :speech_balloon: 25 |  :eyes: 6387 |
+> | :star: +68 |  :calendar: 24.01.2024 |  :speech_balloon: 25 |  :eyes: 6424 |
 >  |-|-|-|-|  
 </div>
