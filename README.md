@@ -1,25 +1,25 @@
 ﻿<div id="infostart_posts">
 
 
-> <img src="https://infostart.ru/upload/iblock/e92/e9229466ef5717a593907d1577031b21.jpg?2af4404e-c9ef-4edf-aeb6-effaea559f33" width="96" align="left"> 
+> <img src="https://infostart.ru/upload/iblock/a83/a833410030d329054238b9d5976ff0c9.png?09e1f567-7af6-4b23-92cb-a2d82e97d01e" width="96" align="left"> 
+> <h4 style="color: white;"><a href="https://infostart.ru/1c/articles/2242478/">Сервер-клиентская передача данных</a></h4>
+> <small>В платформе 8.3.26 анонсировали новый механизм для передачи данных с сервера на клиент. Как нам с этим работать, постараюсь разобраться ниже.</small>  
+> <br clear="left">
+>
+> | :star: +3 |  :calendar: вчера в 16:00 |  :speech_balloon: 0 |  :eyes: 198 |
+>  |-|-|-|-|  
+> <img src="https://infostart.ru/upload/iblock/dae/dae9a5450c91b41120263e209af8dab1.jpg?52b4ca03-209d-474d-a7c4-f5339ed789a1" width="96" align="left"> 
+> <h4 style="color: white;"><a href="https://infostart.ru/1c/articles/2183465/">Структура VS Соответствие</a></h4>
+> <small>Возможности структуры и соответствия для самых маленьких.</small>  
+> <br clear="left">
+>
+> | :star: +2 |  :calendar: вчера в 12:00 |  :speech_balloon: 1 |  :eyes: 260 |
+>  |-|-|-|-|  
+> <img src="https://infostart.ru/upload/iblock/e92/e9229466ef5717a593907d1577031b21.jpg?19f45a59-7ae5-46af-9832-dab141d3b2f6" width="96" align="left"> 
 > <h4 style="color: white;"><a href="https://infostart.ru/1c/articles/2175351/">Copilot – твой парный ИИ-программист</a></h4>
 > <small>Copilot – инструмент, использующий OpenAI для помощи в написании кода в режиме реального времени. Нейросеть обучалась на миллиардах строк кода, в том числе – на языке 1С. А это значит, что мы можем использовать ее для уменьшения рутинной работы в написании кода. О том, как использовать Copilot в ежедневной разработке при написании кода на языках 1С и OneScript, расскажем в статье.</small>  
 > <br clear="left">
 >
-> | :star: +9 |  :calendar: 27.08.2024 |  :speech_balloon: 11 |  :eyes: 4983 |
->  |-|-|-|-|  
-> <img src="https://infostart.ru/upload/iblock/a57/a5707e0bb8184dcb38fdc6d97ef07689.png?1ccb5d86-4003-4c00-addd-6318e71c4151" width="96" align="left"> 
-> <h4 style="color: white;"><a href="https://infostart.ru/1c/articles/2072990/">Как вызвать скрипты на python в 1С по технологии NativeAPI</a></h4>
-> <small>Будем писать свои скрипты на питоне и запускать их на 1С.</small>  
-> <br clear="left">
->
-> | :star: +62 |  :calendar: 15.04.2024 |  :speech_balloon: 13 |  :eyes: 4065 |
->  |-|-|-|-|  
-> <img src="https://infostart.ru/upload/iblock/056/056c40a7b7466e0f727a911732ddb6c5.jpg?b3166289-aa70-40c4-a912-a159c5b0d5fe" width="96" align="left"> 
-> <h4 style="color: white;"><a href="https://infostart.ru/1c/articles/2035802/">Расширяем возможности дополнительных обработок и настраиваем их отладку</a></h4>
-> <small>Уже не одна веб-страница исписана знаниями о дополнительных обработках, как создать, как подключить. Есть масса вариантов, как их можно отладить. Я разобрался в кишках работы библиотеки и покажу, как можно расширить возможности дополнительных отчетов, а также покажу удобный способ отладки.</small>  
-> <br clear="left">
->
-> | :star: +54 |  :calendar: 07.02.2024 |  :speech_balloon: 11 |  :eyes: 4054 |
+> | :star: +9 |  :calendar: 27.08.2024 |  :speech_balloon: 11 |  :eyes: 5001 |
 >  |-|-|-|-|  
 </div>
