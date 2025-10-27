@@ -1,25 +1,25 @@
 ﻿<div id="infostart_posts">
 
 
-> <img src="https://infostart.ru/upload/iblock/a83/a833410030d329054238b9d5976ff0c9.png?de69b71a-ffcf-4c47-aea5-d5547f8500cb" width="96" align="left"> 
+> <img src="https://infostart.ru/upload/iblock/a83/a833410030d329054238b9d5976ff0c9.png?3e16349b-9f82-43fb-b000-9aff19a5fbc7" width="96" align="left"> 
 > <h4 style="color: white;"><a href="https://infostart.ru/1c/articles/2242478/">Сервер-клиентская передача данных</a></h4>
 > <small>В платформе 8.3.26 анонсировали новый механизм для передачи данных с сервера на клиент. Как нам с этим работать, постараюсь разобраться ниже.</small>  
 > <br clear="left">
 >
-> | :star: +35 |  :calendar: 25.11.2024 |  :speech_balloon: 3 |  :eyes: 5396 |
+> | :star: +35 |  :calendar: 25.11.2024 |  :speech_balloon: 3 |  :eyes: 5401 |
 >  |-|-|-|-|  
-> <img src="https://infostart.ru/upload/iblock/dae/dae9a5450c91b41120263e209af8dab1.jpg?736f39ea-e8a1-406d-8504-691ff619f0e7" width="96" align="left"> 
+> <img src="https://infostart.ru/upload/iblock/dae/dae9a5450c91b41120263e209af8dab1.jpg?39381994-b885-4b65-a531-0ec659d2be2b" width="96" align="left"> 
 > <h4 style="color: white;"><a href="https://infostart.ru/1c/articles/2183465/">Структура VS Соответствие</a></h4>
 > <small>Возможности структуры и соответствия для самых маленьких.</small>  
 > <br clear="left">
 >
-> | :star: +6 |  :calendar: 25.11.2024 |  :speech_balloon: 6 |  :eyes: 9170 |
+> | :star: +6 |  :calendar: 25.11.2024 |  :speech_balloon: 6 |  :eyes: 9184 |
 >  |-|-|-|-|  
-> <img src="https://infostart.ru/upload/iblock/e92/e9229466ef5717a593907d1577031b21.jpg?46d65bc3-dbae-4189-af1e-9056e405fe87" width="96" align="left"> 
+> <img src="https://infostart.ru/upload/iblock/e92/e9229466ef5717a593907d1577031b21.jpg?20d72326-7d74-4a3a-bda5-55b083b87767" width="96" align="left"> 
 > <h4 style="color: white;"><a href="https://infostart.ru/1c/articles/2175351/">Copilot – твой парный ИИ-программист</a></h4>
 > <small>Copilot – инструмент, использующий OpenAI для помощи в написании кода в режиме реального времени. Нейросеть обучалась на миллиардах строк кода, в том числе – на языке 1С. А это значит, что мы можем использовать ее для уменьшения рутинной работы в написании кода. О том, как использовать Copilot в ежедневной разработке при написании кода на языках 1С и OneScript, расскажем в статье.</small>  
 > <br clear="left">
 >
-> | :star: +17 |  :calendar: 27.08.2024 |  :speech_balloon: 11 |  :eyes: 13264 |
+> | :star: +17 |  :calendar: 27.08.2024 |  :speech_balloon: 11 |  :eyes: 13280 |
 >  |-|-|-|-|  
 </div>
